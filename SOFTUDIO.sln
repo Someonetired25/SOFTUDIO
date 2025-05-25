@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftudioApp", "SoftudioApp\SoftudioApp.csproj", "{BAA1BCBF-B59A-E670-E91B-C9902134091E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SoftudioApp (1)", "SoftudioApp (1)", "{B683D7FF-0F9A-AF7B-DF7B-E7CD72478085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftudioApp", "SoftudioApp\SoftudioApp\SoftudioApp.csproj", "{B19DCB3B-9A99-12CB-CB8B-3B1DDB2C69D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA1BCBF-B59A-E670-E91B-C9902134091E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA1BCBF-B59A-E670-E91B-C9902134091E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA1BCBF-B59A-E670-E91B-C9902134091E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA1BCBF-B59A-E670-E91B-C9902134091E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B19DCB3B-9A99-12CB-CB8B-3B1DDB2C69D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B19DCB3B-9A99-12CB-CB8B-3B1DDB2C69D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B19DCB3B-9A99-12CB-CB8B-3B1DDB2C69D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B19DCB3B-9A99-12CB-CB8B-3B1DDB2C69D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B19DCB3B-9A99-12CB-CB8B-3B1DDB2C69D4} = {B683D7FF-0F9A-AF7B-DF7B-E7CD72478085}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51434E25-8407-4165-8B89-016FCE6CF1DC}
+	EndGlobalSection
+EndGlobal
